@@ -1,0 +1,20 @@
+SAMUEL MURAGURI
+Information Technology Student
+Kenya
+
+PROFILE
+Second-year Bachelor of Information Technology student at Kirinyaga University,
+building a broad foundation in computing and exploring how technology can solve
+real problems.
+
+EDUCATION
+Bachelor of Information Technology (BIT)
+Kirinyaga University, Kenya
+Second year
+
+TECHNOLOGIES
+HTML5, CSS3, JavaScript
+
+INTERESTS
+Information technology, web development, practical problem-solving, and
+collaborative learning.
